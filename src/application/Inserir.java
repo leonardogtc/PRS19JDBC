@@ -3,10 +3,9 @@ package application;
 import db.DB;
 
 import java.sql.*;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-public class ProgramaInserir {
+public class Inserir {
     public static void main(String[] args) {
 
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
